@@ -1,0 +1,2 @@
+build --features=layering_check
+build --features=static_link_msvcrt
